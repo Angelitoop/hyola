@@ -1,5 +1,5 @@
-a=0
+a=int(input("Ingrese un numero baboso :):" ))
 if a>=18:
-    print("Pingaza")
+    print("eres pingon")
 else:
     print("eres chipi")    
